@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-TextNinja/static/css/main.780e781c.css",
-    "main.js": "/React-TextNinja/static/js/main.54b7b369.js",
+    "main.js": "/React-TextNinja/static/js/main.393427be.js",
     "static/js/787.52911470.chunk.js": "/React-TextNinja/static/js/787.52911470.chunk.js",
     "index.html": "/React-TextNinja/index.html",
     "main.780e781c.css.map": "/React-TextNinja/static/css/main.780e781c.css.map",
-    "main.54b7b369.js.map": "/React-TextNinja/static/js/main.54b7b369.js.map",
+    "main.393427be.js.map": "/React-TextNinja/static/js/main.393427be.js.map",
     "787.52911470.chunk.js.map": "/React-TextNinja/static/js/787.52911470.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.780e781c.css",
-    "static/js/main.54b7b369.js"
+    "static/js/main.393427be.js"
   ]
 }
