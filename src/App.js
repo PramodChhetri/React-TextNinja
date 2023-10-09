@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <Navbar title="TextEditor" darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
+      <Navbar title="TextNinja" darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
       <div className="container my-3">
         <TextForm darkMode={darkMode} />
       </div>

@@ -6,7 +6,7 @@ export default function Navbar(props) {
     <div>
       <nav className={`navbar navbar-expand-lg ${props.darkMode ? 'navbar-dark bg-dark' : ''}`}>
         <div className="container">
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" href="#">
             <b>{props.title}</b>
           </a>
           <div className="d-flex">
